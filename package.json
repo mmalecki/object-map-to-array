@@ -1,6 +1,6 @@
 {
   "name": "object-map-to-array",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Map an object to an array",
   "keywords": ["object", "map", "array"],
   "author": "Maciej Małecki <me@mmalecki.com>",
